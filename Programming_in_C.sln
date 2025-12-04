@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Условные кон�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Грибы", "Грибы\Грибы.vcxproj", "{F1428DF1-DB65-46BB-8694-A14827BA065E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Оператор_switch", "Оператор_switch\Оператор_switch.vcxproj", "{01EB2627-B95A-4BCE-A909-84D066EFC218}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -32,9 +34,18 @@ Global
 		{F1428DF1-DB65-46BB-8694-A14827BA065E}.Release|Win32.Build.0 = Release|Win32
 		{F1428DF1-DB65-46BB-8694-A14827BA065E}.Release|x64.ActiveCfg = Release|x64
 		{F1428DF1-DB65-46BB-8694-A14827BA065E}.Release|x64.Build.0 = Release|x64
+		{01EB2627-B95A-4BCE-A909-84D066EFC218}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01EB2627-B95A-4BCE-A909-84D066EFC218}.Debug|Win32.Build.0 = Debug|Win32
+		{01EB2627-B95A-4BCE-A909-84D066EFC218}.Debug|x64.ActiveCfg = Debug|x64
+		{01EB2627-B95A-4BCE-A909-84D066EFC218}.Debug|x64.Build.0 = Debug|x64
+		{01EB2627-B95A-4BCE-A909-84D066EFC218}.Release|Win32.ActiveCfg = Release|Win32
+		{01EB2627-B95A-4BCE-A909-84D066EFC218}.Release|Win32.Build.0 = Release|Win32
+		{01EB2627-B95A-4BCE-A909-84D066EFC218}.Release|x64.ActiveCfg = Release|x64
+		{01EB2627-B95A-4BCE-A909-84D066EFC218}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{400F501C-5AC7-4E42-B977-B69DA38B172B} = {62E4192C-ABE5-4DFF-AE8B-594C00FE6499}
 		{F1428DF1-DB65-46BB-8694-A14827BA065E} = {4CA97FCE-CFF6-4649-8DAE-27E286C0340E}
+		{01EB2627-B95A-4BCE-A909-84D066EFC218} = {4CA97FCE-CFF6-4649-8DAE-27E286C0340E}
 	EndGlobalSection
 EndGlobal
