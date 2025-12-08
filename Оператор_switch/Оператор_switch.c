@@ -21,7 +21,7 @@
 
 int main(int argc, char* argv[])
 {
-    setlocale(lc_all,"russian");
+    setlocale(LC_ALL,"russian");
     int day = 3;
     switch(day)
     {
