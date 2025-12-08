@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Сумма_цифр_чис�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Банковский_вклад", "Банковский_вклад\Банковский_вклад.vcxproj", "{20A64D69-71D8-45C3-8FE7-98FF6CAE5C7D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Среднее_значение_последовательности", "Среднее_значение_последовательности\Среднее_значение_последовательности.vcxproj", "{95A4926B-A1EB-4F18-8AE1-AE418813127E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -119,6 +121,14 @@ Global
 		{20A64D69-71D8-45C3-8FE7-98FF6CAE5C7D}.Release|Win32.Build.0 = Release|Win32
 		{20A64D69-71D8-45C3-8FE7-98FF6CAE5C7D}.Release|x64.ActiveCfg = Release|x64
 		{20A64D69-71D8-45C3-8FE7-98FF6CAE5C7D}.Release|x64.Build.0 = Release|x64
+		{95A4926B-A1EB-4F18-8AE1-AE418813127E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{95A4926B-A1EB-4F18-8AE1-AE418813127E}.Debug|Win32.Build.0 = Debug|Win32
+		{95A4926B-A1EB-4F18-8AE1-AE418813127E}.Debug|x64.ActiveCfg = Debug|x64
+		{95A4926B-A1EB-4F18-8AE1-AE418813127E}.Debug|x64.Build.0 = Debug|x64
+		{95A4926B-A1EB-4F18-8AE1-AE418813127E}.Release|Win32.ActiveCfg = Release|Win32
+		{95A4926B-A1EB-4F18-8AE1-AE418813127E}.Release|Win32.Build.0 = Release|Win32
+		{95A4926B-A1EB-4F18-8AE1-AE418813127E}.Release|x64.ActiveCfg = Release|x64
+		{95A4926B-A1EB-4F18-8AE1-AE418813127E}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,6 +145,7 @@ Global
 		{EB95B08A-E927-46BC-B186-34F63AD55E12} = {99DF816C-EFE3-40E4-8DFE-176A00EF3273}
 		{6AB512B9-AEB4-4630-A155-A29A6D31318F} = {99DF816C-EFE3-40E4-8DFE-176A00EF3273}
 		{20A64D69-71D8-45C3-8FE7-98FF6CAE5C7D} = {99DF816C-EFE3-40E4-8DFE-176A00EF3273}
+		{95A4926B-A1EB-4F18-8AE1-AE418813127E} = {99DF816C-EFE3-40E4-8DFE-176A00EF3273}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {32B3DED1-7373-48A6-8F57-2E43BC1E29E3}
