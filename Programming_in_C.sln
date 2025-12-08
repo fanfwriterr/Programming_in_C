@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Цикл_for", "Цикл_fo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Лесенка", "Лесенка\Лесенка.vcxproj", "{1F08B4EE-D69A-4C06-93EC-A033AE83E208}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Лесенка_2", "Лесенка_2\Лесенка_2.vcxproj", "{EB95B08A-E927-46BC-B186-34F63AD55E12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -77,6 +79,14 @@ Global
 		{1F08B4EE-D69A-4C06-93EC-A033AE83E208}.Release|Win32.Build.0 = Release|Win32
 		{1F08B4EE-D69A-4C06-93EC-A033AE83E208}.Release|x64.ActiveCfg = Release|x64
 		{1F08B4EE-D69A-4C06-93EC-A033AE83E208}.Release|x64.Build.0 = Release|x64
+		{EB95B08A-E927-46BC-B186-34F63AD55E12}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB95B08A-E927-46BC-B186-34F63AD55E12}.Debug|Win32.Build.0 = Debug|Win32
+		{EB95B08A-E927-46BC-B186-34F63AD55E12}.Debug|x64.ActiveCfg = Debug|x64
+		{EB95B08A-E927-46BC-B186-34F63AD55E12}.Debug|x64.Build.0 = Debug|x64
+		{EB95B08A-E927-46BC-B186-34F63AD55E12}.Release|Win32.ActiveCfg = Release|Win32
+		{EB95B08A-E927-46BC-B186-34F63AD55E12}.Release|Win32.Build.0 = Release|Win32
+		{EB95B08A-E927-46BC-B186-34F63AD55E12}.Release|x64.ActiveCfg = Release|x64
+		{EB95B08A-E927-46BC-B186-34F63AD55E12}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,6 +98,7 @@ Global
 		{2934EA62-EDAE-4761-874F-A0CB6BEFB262} = {4CA97FCE-CFF6-4649-8DAE-27E286C0340E}
 		{A9C26E59-3467-4478-83C5-87CCE5B02901} = {EE4E482A-7D21-4A8D-A156-8C75A07AAF6D}
 		{1F08B4EE-D69A-4C06-93EC-A033AE83E208} = {EE4E482A-7D21-4A8D-A156-8C75A07AAF6D}
+		{EB95B08A-E927-46BC-B186-34F63AD55E12} = {EE4E482A-7D21-4A8D-A156-8C75A07AAF6D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {32B3DED1-7373-48A6-8F57-2E43BC1E29E3}
