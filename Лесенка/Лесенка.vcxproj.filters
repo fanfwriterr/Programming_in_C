@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Лесенка.cpp">
+    <ClCompile Include="Лесенка.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
