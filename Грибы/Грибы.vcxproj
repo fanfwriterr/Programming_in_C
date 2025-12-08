@@ -21,6 +21,12 @@
   <ItemGroup>
     <Content Include="Задача 12 Грибы.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="mushrooms.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Задача 12 Грибы.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{F1428DF1-DB65-46BB-8694-A14827BA065E}</ProjectGuid>
@@ -35,7 +41,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v143</PlatformToolset>
+    <PlatformToolset>v142</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">

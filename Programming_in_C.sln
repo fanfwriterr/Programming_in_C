@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36324.18
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Операции деления", "2. Операции деления", "{62E4192C-ABE5-4DFF-AE8B-594C00FE6499}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Секунды", "Секунды\Секунды.vcxproj", "{400F501C-5AC7-4E42-B977-B69DA38B172B}"
@@ -9,6 +12,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Грибы", "Грибы\Грибы.vcxproj", "{F1428DF1-DB65-46BB-8694-A14827BA065E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Оператор_switch", "Оператор_switch\Оператор_switch.vcxproj", "{01EB2627-B95A-4BCE-A909-84D066EFC218}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Число_прописью", "Число_прописью\Число_прописью.vcxproj", "{2934EA62-EDAE-4761-874F-A0CB6BEFB262}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,10 +47,25 @@ Global
 		{01EB2627-B95A-4BCE-A909-84D066EFC218}.Release|Win32.Build.0 = Release|Win32
 		{01EB2627-B95A-4BCE-A909-84D066EFC218}.Release|x64.ActiveCfg = Release|x64
 		{01EB2627-B95A-4BCE-A909-84D066EFC218}.Release|x64.Build.0 = Release|x64
+		{2934EA62-EDAE-4761-874F-A0CB6BEFB262}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2934EA62-EDAE-4761-874F-A0CB6BEFB262}.Debug|Win32.Build.0 = Debug|Win32
+		{2934EA62-EDAE-4761-874F-A0CB6BEFB262}.Debug|x64.ActiveCfg = Debug|x64
+		{2934EA62-EDAE-4761-874F-A0CB6BEFB262}.Debug|x64.Build.0 = Debug|x64
+		{2934EA62-EDAE-4761-874F-A0CB6BEFB262}.Release|Win32.ActiveCfg = Release|Win32
+		{2934EA62-EDAE-4761-874F-A0CB6BEFB262}.Release|Win32.Build.0 = Release|Win32
+		{2934EA62-EDAE-4761-874F-A0CB6BEFB262}.Release|x64.ActiveCfg = Release|x64
+		{2934EA62-EDAE-4761-874F-A0CB6BEFB262}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{400F501C-5AC7-4E42-B977-B69DA38B172B} = {62E4192C-ABE5-4DFF-AE8B-594C00FE6499}
 		{F1428DF1-DB65-46BB-8694-A14827BA065E} = {4CA97FCE-CFF6-4649-8DAE-27E286C0340E}
 		{01EB2627-B95A-4BCE-A909-84D066EFC218} = {4CA97FCE-CFF6-4649-8DAE-27E286C0340E}
+		{2934EA62-EDAE-4761-874F-A0CB6BEFB262} = {4CA97FCE-CFF6-4649-8DAE-27E286C0340E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32B3DED1-7373-48A6-8F57-2E43BC1E29E3}
 	EndGlobalSection
 EndGlobal

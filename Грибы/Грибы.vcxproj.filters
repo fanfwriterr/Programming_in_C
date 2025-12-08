@@ -15,8 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Грибы.cpp">
+    <ClCompile Include="mushrooms.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Задача 12 Грибы.md" />
   </ItemGroup>
 </Project>

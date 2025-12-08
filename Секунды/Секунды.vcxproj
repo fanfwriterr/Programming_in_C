@@ -21,6 +21,9 @@
   <ItemGroup>
     <Content Include="Секунды.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="seconds.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{400F501C-5AC7-4E42-B977-B69DA38B172B}</ProjectGuid>

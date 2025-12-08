@@ -21,18 +21,18 @@
 
 int main(int argc, char* argv[])
 {
-    setlocale(LC_ALL,"Russian");
+    setlocale(lc_all,"russian");
     int day = 3;
     switch(day)
     {
-    case 1: printf("Понедельник\n"); break;
-    case 2: printf("Вторник\n"); break;
-    case 3: printf("Среда\n"); break;
-    case 4: printf("Четверг\n"); break;
-    case 5: printf("Пятница\n"); break;
-    case 6: printf("Суббота\n"); break;
-    case 7: printf("Воскресенье\n"); break;
-    default: printf("Неверный день недели!\n");
+    case 1: printf("понедельник\n"); break;
+    case 2: printf("вторник\n"); break;
+    case 3: printf("среда\n"); break;
+    case 4: printf("четверг\n"); break;
+    case 5: printf("пятница\n"); break;
+    case 6: printf("суббота\n"); break;
+    case 7: printf("воскресенье\n"); break;
+    default: printf("неверный день недели!\n");
     }
     return 0;
 }
